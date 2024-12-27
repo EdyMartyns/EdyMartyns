@@ -1,6 +1,6 @@
 <h1> Bem vindo ao meu perfil Github ✨ </h1>
 
-Estou na área de Service Desk há 15 anos, hoje com 45 anos, resolvi migrar de carreira,🚀sempre gostei de programação! Resolvi me aventurar nessa área. Let´s go! 
+Estou na área de Service Desk há 15 anos, com 45 anos, resolvi migrar de carreira,🚀sempre gostei de programação! Resolvi me aventurar nessa área. Let´s go! 
 
 
 🖥️ Tecnologias e Ferramentas:
@@ -10,9 +10,9 @@ HTML5 CSS3 JAVASCRIPT GIT GITHUB PYTHON SQL
 
 💻 Trabalho como Service Desk na Oititec, empresa pioneira em reconhecimento biométrico facial;
 
-📚 Fiz Sistemas de Informação terminei em 2009; MBA Gestão em TI em 2014; 
+📚 Fiz curso de Sistemas de Informação terminei em 2009; MBA Gestão em TI em 2014; 
 
-⚡ Tenho estudado Javascript, HTML, CSS e iniciei meus estudos com NodeJs e React;
+⚡ Tenho estudado Javascript, HTML, CSS e iniciei meus estudos com python e aprofundamento em Sql;
 
 
 
