@@ -6,7 +6,7 @@ Estou na área de Service Desk há 15 anos, hoje com 45 anos, resolvi migrar de 
 🖥️ Tecnologias e Ferramentas:
 
 
-HTML5 CSS3 JAVASCRIPT GITHUB PYTHON NODE.JS REACT
+HTML5 CSS3 JAVASCRIPT GITHUB PYTHON NODE.JS REACT SQL
 
 💻 Trabalho como Service Desk na Oititec, empresa pioneira em reconhecimento biométrico facial;
 
